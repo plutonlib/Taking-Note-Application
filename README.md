@@ -5,5 +5,10 @@ Taking note application from newbie ruby learner.
 ## Development
 Still continuining.
 
-## Warning:
+## Usage
+`
+ruby main.rb
+`
+
+## Warning
 When you save the note, it will save in the ./notes folder.
